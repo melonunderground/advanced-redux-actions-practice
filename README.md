@@ -151,7 +151,8 @@
     * map prop `set` to action `setVideoScale`
   * ShowModalContainer.js
     * import `setIsLoading` action
-    * map prop `setIsLoading` to action `setIsLoading`Show
+    * map prop `setIsLoading` to action `setIsLoading` 
+    Show
   * ModalContainer.js
     * import `setIsLoading` action
     * map prop `setIsLoading` to action `setIsLoading`
